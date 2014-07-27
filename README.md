@@ -1,7 +1,7 @@
 == README
 
 This is a test application for the
-[*Sample App Project*](http://christolin.com/)
+[*Task Master Project*](http://christolin.com/)
 by [Chris Tolin](http://christolin.com/).
 
 * Ruby version 2.0
